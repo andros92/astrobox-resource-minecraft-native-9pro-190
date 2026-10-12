@@ -1,0 +1,40 @@
+{
+  "item": {
+    "id": "minecraft-native-9pro-190",
+    "restype": "canopus",
+    "name": "我的世界（9 Pro 190）",
+    "description": "面向小米手环的非官方中文原生方块生存游戏。横屏三维探索、采集建造、背包合成、熔炉箱子、多世界存档，以及主世界、下界与末地。仅支持小米手环9 Pro固件3.1.190，不支持其他固件。9 Pro 190请安装独立的190资源；175和043请安装原资源。4元一次购买，共用同一商品购买资格。0.7.7修复不同种子开局地图相同的问题；旧存档保留原地形与生成规则，新地形需新建世界。这是早期版本，可能存在Bug，欢迎加入QQ群872095216反馈问题；开发者：砂糖橘。",
+    "preview": [
+      "media/01-world.png",
+      "media/02-inventory.png",
+      "media/03-furnace.png",
+      "media/04-worlds.png",
+      "media/05-settings.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover.png",
+    "author": [
+      {
+        "name": "17609",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9p": {
+      "version": "0.7.7",
+      "file_name": "downloads/Minecraft-native-0.7.7-9Pro-3.1.190.bin",
+      "versionCode": 707,
+      "updatelogs": [
+        {
+          "version": "0.7.7",
+          "content": "仅支持小米手环9 Pro固件3.1.190。\n修复不同种子出生地和地形相同：新世界的高度、树林、沙地、水池与出生点随种子变化。\n兼容旧存档；旧世界继续原生成规则，新地形需新建世界。新存档请勿降级至0.7.6及更早版本。\n保留增大的返回按钮、三维度与生存通关流程，以及液体、沙子、打火石、末影珍珠与末影之眼修复。\n保留流畅档28×20与原有画质选项，地形生成只发生在加载区域时。\n通过代码、存档、固件接口及安装包检查；本次0.7.7尚未进行实机测试。欢迎加入QQ群872095216反馈。"
+        }
+      ]
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
